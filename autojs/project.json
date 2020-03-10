@@ -1,0 +1,10 @@
+[{
+  "name": "节点一",
+  "path": "http://192.168.110.10:60880/vt/js/init.js"
+}, {
+  "name": "节点二",
+  "path": "http://192.168.0.87:8901/vt/js/init.js"
+}, {
+  "name": "节点三",
+  "path": "https://ros.elitah.xyz/vt/js/init.js"
+}]
